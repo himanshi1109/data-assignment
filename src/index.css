@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+#logo{
+    background-image: url(./assets/logo.png);
+    background-size: cover;
+}
+
+
+.value{
+font-weight: lighter;
+}
