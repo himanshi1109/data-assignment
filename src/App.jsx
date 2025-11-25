@@ -16,7 +16,7 @@ const App = () => {
 
     let [tasks, setTasks] = useState([{
         name : "Himanshi",
-        contact : "8103333472",
+        contact : "9876543219",
         items : "Pizza , Coffee",
         tableNo : "11",
         price : "200"
